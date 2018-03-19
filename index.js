@@ -19,5 +19,5 @@ function shouting(sentence) {
 }
 
 function runDown(number) {
-  return floor(number)
+  return Math.floor(number)
 }
