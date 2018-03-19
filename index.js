@@ -17,3 +17,7 @@ function sayHeyFriend(name) {
 function shouting(sentence) {
   return sentence.toUpperCase()
 }
+
+function runDown(number) {
+  return floor(number)
+}
